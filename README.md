@@ -1,7 +1,10 @@
 # Dyanmic DNS for Linode
 
-by Kirk Gleason <kgleason@gmail.com> 1/14/2014
-This code and associated documentation is released into the Public Domain.
+by Kirk Gleason (<kgleason@gmail.com>) 
+
+1/14/2014
+
+This code and associated documentation are released into the Public Domain.
 
 The following script is inspired by [Snorp's Python Linode update script](https://github.com/snorp/linode), but has been heavily modified.
 
